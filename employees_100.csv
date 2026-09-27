@@ -1,0 +1,101 @@
+employee_id,name,department,city,age,salary,experience,performance_score,projects_completed,joining_date
+264,Vivek Singh,Data Science,Pune,39.0,65622.0,3,10,12,2023-02-23
+129,Isha Singh,Engineering,Pune,38.0,83311.0,6,9,11,2020-06-17
+107,Isha Joshi,Sales,Mumbai,24.0,55484.0,12,9,19,2018-09-18
+290,Vivek Kulkarni,HR,,38.0,45752.0,10,4,17,2020-12-28
+171,Arjun Patel,Data Science,Delhi,35.0,,11,7,16,2020-01-02
+163,Rohan Das,Finance,Delhi,37.0,55016.0,5,5,17,2023-12-13
+158,Swati Bansal,engineering,,,65153.0,3,3,7,2024-05-12
+136,Manish Desai,Marketing,,38.0,53414.0,10,10,17,2019-11-08
+289,Ananya Joshi,Finance,Chennai,38.0,90211.0,3,7,12,2022-03-10
+127,Aarav Joshi,Sales,Mumbai,23.0,83555.0,8,6,18,2020-06-21
+274,Swati Desai,Marketing,Kolkata,22.0,49643.0,8,6,8,2023-06-12
+240,Sneha Verma,Engineering,,36.0,57478.0,1,4,13,2021-12-22
+123,Vikram Pillai,Sales,Kolkata,41.0,,6,8,3,2020-10-15
+252,Sneha Iyer,HR,,26.0,61371.0,1,10,17,2019-02-06
+209,Kavya Verma,Finance,Kolkata,28.0,76826.0,7,6,12,2018-08-29
+109,Rahul Kulkarni,Data Science,Chennai,35.0,90651.0,11,10,4,2020-02-17
+108,Ritu Iyer,Data Science,Kolkata,22.0,,7,5,1,2023-09-12
+124,Manish Gupta,Data Science,Mumbai,28.0,82334.0,3,3,19,2018-12-02
+156,Vikram Mishra,HR,Bangalore,27.0,65590.0,3,7,12,2019-06-21
+160,Megha Sharma,Sales,Bangalore,23.0,,9,4,2,2024-01-12
+230,Sneha Joshi,engineering,Hyderabad,23.0,69217.0,4,5,14,2024-02-04
+255,Varun Sharma,HR,Kolkata,38.0,88475.0,1,5,8,2019-04-18
+298,Neha Verma,Engineering,Delhi,27.0,58342.0,10,7,16,2023-06-25
+244,Ananya Malhotra,Data Science,Chennai,22.0,,12,5,20,2020-12-08
+151,Rahul Kumar,HR,Chennai,24.0,,11,5,17,2018-05-28
+267,Divya Mishra,HR,Hyderabad,22.0,47614.0,5,6,7,2019-02-26
+292,Divya Verma,Finance,Chennai,25.0,60514.0,2,5,13,2018-04-12
+208,Rahul Patel,Finance,Chennai,28.0,90958.0,1,9,1,2023-04-12
+157,Karan Iyer,Finance,,28.0,88255.0,3,9,10,2021-02-15
+215,Manish Singh,engineering,Chennai,38.0,46808.0,1,7,5,2024-07-06
+251,Ananya Malhotra,Data Science,Chennai,31.0,78516.0,1,9,18,2020-02-18
+172,Ananya Malhotra,Marketing,Chennai,,80287.0,10,6,11,2022-11-02
+102,Manish Patel,HR,Bangalore,24.0,64681.0,8,7,13,2021-08-29
+141,Vivek Sharma,HR,Hyderabad,42.0,89388.0,11,5,19,2024-05-20
+286,Ritu Kulkarni,HR,Kolkata,27.0,83009.0,9,8,14,2022-12-15
+188,Aarav Iyer,HR,,26.0,63598.0,8,8,2,2020-08-20
+269,Megha Sharma,Engineering,Pune,22.0,76138.0,9,4,14,2022-08-25
+140,Arjun Mishra,Engineering,Chennai,28.0,90064.0,0,4,13,2020-06-15
+282,Rahul Joshi,Sales,Kolkata,24.0,75450.0,10,8,14,2024-11-14
+187,Sakshi Joshi,Sales,,36.0,94268.0,3,7,16,2023-06-08
+291,Arjun Rao,engineering,,,62807.0,5,8,17,2018-11-27
+283,Isha Nair,Engineering,Chennai,27.0,,6,8,17,2023-03-24
+198,Vikram Malhotra,Engineering,Chennai,39.0,46280.0,12,9,15,2018-01-25
+125,Divya Sharma,Finance,Chennai,34.0,93144.0,8,6,15,2020-06-17
+192,Ananya Pillai,Sales,Kolkata,42.0,71497.0,11,5,14,2019-06-07
+189,Simran Verma,Data Science,Chennai,42.0,,10,9,4,2023-03-07
+168,Rahul Malhotra,engineering,Chennai,35.0,94887.0,6,7,13,2020-10-30
+112,Manish Mehta,Data Science,Kolkata,32.0,49496.0,12,3,0,2020-10-09
+218,Sneha Kapoor,HR,Hyderabad,36.0,81960.0,3,10,8,2022-02-19
+238,Rahul Bansal,HR,Mumbai,26.0,52084.0,9,3,9,2024-06-16
+132,Megha Kulkarni,Sales,Pune,,86106.0,3,4,9,2024-09-25
+197,Neha Mishra,Finance,Kolkata,34.0,49519.0,8,8,0,2022-09-17
+121,Aditi Das,Sales,Bangalore,35.0,73540.0,2,7,19,2024-01-14
+242,Aditi Kumar,Sales,Delhi,28.0,50679.0,4,10,7,2023-03-19
+176,Nikhil Bansal,Marketing,Chennai,36.0,56917.0,7,6,11,2020-11-24
+193,Priya Singh,HR,Delhi,37.0,50610.0,3,9,15,2024-03-24
+150,Karan Mehta,Marketing,,21.0,,3,9,7,2021-06-08
+118,Megha Mishra,engineering,,32.0,93885.0,8,8,11,2023-02-02
+253,Ananya Sharma,engineering,Pune,27.0,93685.0,8,5,6,2020-06-05
+159,Sakshi Mehta,engineering,Delhi,27.0,68650.0,2,7,0,2023-12-28
+175,Isha Singh,Data Science,Kolkata,25.0,94334.0,7,4,0,2024-06-09
+248,Ritu Mehta,Sales,,22.0,76308.0,1,4,12,2023-07-08
+281,Manish Mishra,Marketing,Kolkata,39.0,50582.0,3,4,17,2022-09-01
+126,Simran Bansal,Finance,Pune,33.0,74014.0,4,9,9,2024-05-18
+258,Simran Malhotra,HR,Mumbai,27.0,62343.0,10,4,5,2020-09-09
+300,Rahul Verma,Data Science,Hyderabad,,83916.0,7,7,1,2020-08-06
+217,Ritu Sharma,Marketing,,,62337.0,12,6,13,2019-04-16
+194,Pooja Rao,Marketing,Hyderabad,25.0,,2,7,19,2024-05-20
+142,Ritu Kumar,Data Science,,33.0,77798.0,8,10,14,2018-11-26
+195,Simran Malhotra,Sales,Bangalore,21.0,,10,3,8,2024-06-18
+191,Kavya Gupta,Sales,,26.0,73566.0,10,10,2,2023-04-10
+154,Divya Pillai,engineering,Bangalore,26.0,90460.0,7,7,12,2024-03-03
+169,Kavya Kumar,Data Science,Bangalore,24.0,71488.0,8,3,17,2023-03-08
+190,Vikram Malhotra,Engineering,Bangalore,36.0,94806.0,0,6,8,2024-02-28
+220,Isha Sharma,Sales,,41.0,60682.0,11,5,9,2024-03-06
+265,Swati Verma,Sales,Mumbai,24.0,52698.0,10,5,15,2021-04-10
+183,Rohan Singh,Sales,,28.0,54479.0,6,6,19,2023-09-13
+110,Sakshi Nair,Finance,Mumbai,34.0,78275.0,4,3,9,2021-05-07
+178,Nikhil Mishra,Marketing,,35.0,67618.0,5,9,14,2021-08-11
+182,Sneha Rao,HR,Chennai,34.0,,11,10,12,2022-05-01
+122,Megha Nair,Sales,Kolkata,39.0,51577.0,7,4,16,2023-02-15
+228,Swati Nair,Sales,Hyderabad,,62368.0,5,9,20,2018-11-25
+233,Priya Verma,Sales,Bangalore,36.0,47352.0,9,4,7,2021-03-23
+250,Karan Desai,Sales,Mumbai,24.0,90482.0,4,3,1,2021-08-21
+239,Kavya Sharma,engineering,Bangalore,28.0,82088.0,10,5,5,2019-12-19
+270,Manish Bansal,Finance,Chennai,28.0,83217.0,2,6,14,2020-11-06
+149,Aarav Singh,Marketing,Kolkata,35.0,89407.0,8,5,2,2022-12-15
+135,Divya Mishra,engineering,Chennai,35.0,58055.0,6,10,3,2020-08-29
+221,Vivek Mishra,engineering,Delhi,30.0,,10,9,8,2018-02-03
+279,Nikhil Malhotra,HR,,30.0,60081.0,9,8,7,2020-02-18
+235,Simran Singh,Marketing,Hyderabad,41.0,65246.0,12,10,1,2024-07-01
+299,Divya Nair,Data Science,Delhi,34.0,53661.0,12,8,16,2023-08-18
+225,Ananya Gupta,engineering,,30.0,67198.0,12,4,14,2018-11-05
+232,Isha Rao,Finance,Chennai,38.0,70858.0,0,7,17,2019-05-22
+199,Aarav Chatterjee,Marketing,Delhi,41.0,52100.0,10,6,15,2018-04-13
+200,Simran Verma,engineering,Pune,41.0,90945.0,4,9,3,2019-07-27
+284,Kavya Malhotra,engineering,,28.0,53890.0,6,10,11,2024-01-22
+130,Vikram Mishra,Marketing,Hyderabad,41.0,,7,9,8,2018-05-15
+105,Varun Chatterjee,Engineering,,28.0,51511.0,10,8,17,2022-01-09
+275,Kavya Kulkarni,engineering,Pune,35.0,,3,3,1,2021-09-28
